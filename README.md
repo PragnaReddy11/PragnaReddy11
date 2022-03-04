@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PragnaReddy11
+- 👋 Hi, I’m Machupalli Sree Pragna
 - 👀 I’m interested in Cyber Security 
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Projects on different tech fields - Data Science,Cyber Security,Web Development,App Development
