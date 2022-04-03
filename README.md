@@ -1,3 +1,5 @@
+<img src="Downloads/Anonymous" width="40" height="40"/>
+
 <h1 align="center">Hi 👋, I'm Machupalli Sree Pragna</h1>
 <h3 align="center">Ethical Hacker & CyberSecurity Enthusiast. My interests lie in computer Networking and being able to protect this evolving tech world through CyberSecurity.</h3>
 
