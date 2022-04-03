@@ -1,6 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacked-you-have-been-hacked-hacker-gif-16164963">
 <h1 align="center">Hi 👋, I'm Machupalli Sree Pragna</h1>
-<h3 align="center">Ethical Hacker & CyberSecurity Enthusiast. My interests lie in computer Networking and being able to protect this evolving tech world through CyberSecurity.</h3>
+<h3 align="center">Ethical Hacker & CyberSecurity Enthusiast.
+  My interests lie in computer Networking and being able to protect this evolving tech world through CyberSecurity.</h3>
 
 - 🔭 I’m currently working on **Hawkeye - Bug Bounty automation tool**
 
