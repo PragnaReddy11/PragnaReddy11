@@ -21,7 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-(https://medium.com/@sreepragnamachupalli/an-overview-on-ddos-attacks-2b475c4e27e3)
+<p> Here's my first blog post on DDoS Attacks.Do check this out,I Hope its insightful.
+https://medium.com/@sreepragnamachupalli/an-overview-on-ddos-attacks-2b475c4e27e3
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
