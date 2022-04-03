@@ -1,6 +1,6 @@
 
 <img  alt="Coding" align="center" width="600" class="center" src="https://c.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif"><hr>
-<style/css>
+<style>
 .center {
   display: block;
   margin-left: auto;
