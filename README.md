@@ -1,5 +1,4 @@
-<img src="Downloads/Anonymous" width="40" height="40"/>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h1 align="center">Hi 👋, I'm Machupalli Sree Pragna</h1>
 <h3 align="center">Ethical Hacker & CyberSecurity Enthusiast. My interests lie in computer Networking and being able to protect this evolving tech world through CyberSecurity.</h3>
 
@@ -15,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sreepragnamachupalli](https://medium.com/@sreepragnamachupalli)
 
-- 📫 How to reach me **sreepragnamachupalli@gmail.com**
+- 📫 How to reach me **sreepragnamachupalli@gmail.com 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
