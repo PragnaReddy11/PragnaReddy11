@@ -1,11 +1,6 @@
 
-<img  alt="Coding" class="center" width="400" src="https://c.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif"><hr>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+<img  alt="Coding" align="center" width="400" src="https://c.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif"><hr>
+
 <h1 align="center">Hi 👋, I'm Machupalli Sree Pragna</h1>
 <h3 align="center">Ethical Hacker & CyberSecurity Enthusiast.
   My interests lie in computer Networking and being able to protect this evolving tech world through CyberSecurity.</h3>
