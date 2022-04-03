@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sreepragnamachupalli](https://medium.com/@sreepragnamachupalli)
 
-- 📫 How to reach me **sreepragnamachupalli@gmail.com ** ,** https://www.linkedin.com/in/sreepragna/ **
+- 📫 How to reach me **sreepragnamachupalli@gmail.com ** , https://www.linkedin.com/in/sreepragna/ 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
