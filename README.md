@@ -3,6 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Machupalli Sree Pragna</h1>
 <h2 align="center">People call me Client-Server</h2>
+<h2 align="center">Achievements</h2>
+<h3>Acknowledged by NCIIPC India for reporting a security vulnerability in indian govt website</h3>
+<h3> Google Developer Student Club Lead </h3>
+<h3> Microsoft Learn Student Ambassador </h3>
+
 <h3 align="center" >I'm an Ethical Hacker & CyberSecurity Enthusiast.
   My interests lie in computer Networking and being able to protect this evolving tech world through CyberSecurity.</h3>
 
